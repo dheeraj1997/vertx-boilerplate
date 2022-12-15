@@ -1,0 +1,9 @@
+{
+  "http": {
+    "port": 3001
+  },
+  "vertx": {
+    "worker": true,
+    "noOfInstances": 4
+  }
+}
